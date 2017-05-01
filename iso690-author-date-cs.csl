@@ -601,6 +601,7 @@
             <text macro="page"/>
             <text macro="genre"/>
             <text macro="publisher"/>
+            <text macro="note"/>
           </group>
           <text macro="url"/>
         </else-if>
